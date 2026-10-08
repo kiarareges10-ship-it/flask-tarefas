@@ -1,0 +1,32 @@
+h1{
+    color:lightslategray
+}
+
+p{
+    color:rgba(102, 100, 100, 0.836)
+}
+
+img{
+    margin-bottom: 20PX;
+}
+
+button{
+    color:rgb(1, 44, 44);
+    background-color: rgba(12, 79, 105, 0.603);
+    padding: 10px 30px;
+    font-size: 8px;
+    border-radius: 8px;
+    border-color: rgb(48, 90, 92);
+}
+
+button:hover{
+    background-color:rgba(127, 255, 212, 0.226)
+
+}
+
+body{
+    background-color: rgb(181, 202, 202);
+    display:flex;
+    flex-direction: column;
+    
+}
