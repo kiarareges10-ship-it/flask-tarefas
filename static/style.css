@@ -1,9 +1,9 @@
 h1{
-    color:lightslategray
+    color:rgb(15, 59, 104)
 }
 
 p{
-    color:rgba(102, 100, 100, 0.836)
+    color:rgba(70, 68, 68, 0.836)
 }
 
 img{
@@ -29,4 +29,9 @@ body{
     display:flex;
     flex-direction: column;
     
+}
+
+.cartão{
+    background-color: azure;
+    padding 20PX;
 }
